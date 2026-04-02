@@ -1,0 +1,14 @@
+1.why python is called as dynamically type language?
+python interpereter at runtime it decide the value
+
+*python is interperater language
+*python used both compiler & interreater
+
+typecasting:- converting one type to another data type
+
+*33 keywords are reserved in python
+
+
+when we want addreess cmparision we use identity oprator  i.e is & isnot
+
+by using membership oprator we check the object is present or not i.e in & notin 
